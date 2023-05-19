@@ -1,0 +1,15 @@
+C:\Users\finnn\Desktop\DoggieDeliver\bin\Debug\net7.0\DoggieDeliver.exe
+C:\Users\finnn\Desktop\DoggieDeliver\bin\Debug\net7.0\DoggieDeliver.deps.json
+C:\Users\finnn\Desktop\DoggieDeliver\bin\Debug\net7.0\DoggieDeliver.runtimeconfig.json
+C:\Users\finnn\Desktop\DoggieDeliver\bin\Debug\net7.0\DoggieDeliver.dll
+C:\Users\finnn\Desktop\DoggieDeliver\bin\Debug\net7.0\DoggieDeliver.pdb
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\DoggieDeliver.csproj.AssemblyReference.cache
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\DoggieDeliver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\DoggieDeliver.AssemblyInfoInputs.cache
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\DoggieDeliver.AssemblyInfo.cs
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\DoggieDeliver.csproj.CoreCompileInputs.cache
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\DoggieDeliver.dll
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\refint\DoggieDeliver.dll
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\DoggieDeliver.pdb
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\DoggieDeliver.genruntimeconfig.cache
+C:\Users\finnn\Desktop\DoggieDeliver\obj\Debug\net7.0\ref\DoggieDeliver.dll
