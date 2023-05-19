@@ -39,7 +39,7 @@ class DeliveryDogManager {
         }
     }
     //Return a list of all the dogs
-    public List<Dog> GetAllPeople(){
+    public List<Dog> GetAllDogs(){
         return dogs;
     }
 }

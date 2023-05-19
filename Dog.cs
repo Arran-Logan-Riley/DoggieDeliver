@@ -25,5 +25,4 @@ class Dog{
         Age = age;
     }
 
-
 }
